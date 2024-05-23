@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# My AI Avatar Presentation
 
-## 🚀 Introdução
+## 📒 Description
 
-> Woooow! Look at this 👀
+In this project, I aimed to combine Artificial Intelligence technologies to create an interactive avatar capable of communicating naturally and delivering a brief personal introduction. The main objective was to demonstrate the effective integration of text-generative AI, voice synthesis, and avatar animation, resulting in an engaging and interactive experience.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🤖 Tecnologies
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Remini - https://app.remini.ai/ 
+Runway - https://runwayml.com/
+ChatGPT - https://chatgpt.com/
 
-### Objetivos
+## 🧐 Development Preccess
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+The first step in the development process involved creating a realistic and visually appealing avatar using Remini. Remini's advanced image enhancement technology allowed for the generation of a high-quality avatar that could serve as the virtual face of the project.
+Once the avatar was created, the next step was to animate it and produce a video using Runway. Runway's robust suite of video editing and animation tools facilitated the seamless integration of the avatar into a dynamic video format. This involved animating the avatar's facial expressions, lip movements with the spoken content.
+To ensure the textual content was coherent, engaging, and accurate, ChatGPT was utilized for text assistance and correction.
 
-### Template
+## 🚀 Results
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+As a result, I achieved the following outcome:
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+https://github.com/LeonardoDeina/lab-natty-or-not/assets/126990604/265698a2-dbe7-47d2-974d-9d280ed1a71b
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
